@@ -1,4 +1,5 @@
 mkdir hola-mundo
 cd hola-mundo
 git init
-git checkout -b dev
+git checkout -b main
+
